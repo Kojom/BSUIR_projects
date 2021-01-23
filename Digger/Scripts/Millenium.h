@@ -1,0 +1,14 @@
+#pragma once
+#include <SFML/Graphics.hpp>
+#include <time.h>
+#include "Entity.h"
+#include "Digger.h"
+#include "Bag.h"
+#include "EasyEnemy.h"
+#include "Cube.h"
+#include "Emerald.h"
+#include "MAP.h"
+#include "Bullet.h"
+#include <iostream>
+#include <fstream>
+#include <string>
